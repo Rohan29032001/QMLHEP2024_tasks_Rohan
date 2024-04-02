@@ -11,7 +11,7 @@ Note: I didn't get time to try a lot of Hyperparameter tuning becuase of academi
 
 
 ### Summary of Results obtained:
-The metrics used here are calculated on the test set. The GNNs were trained with 2 layers only. 
+The metrics used here are calculated on the test set. The GNNs were trained with 2 layers only. The saved models have also been uploaded.
 
 - Task 2, GAT based GNN:
     - Dataset: Quark and Gluon jets
